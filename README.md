@@ -1,6 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/willpc5/34034471de111506a0d209d5e5bc7a77/raw/5a8f1613b6344d3e62429d051c17b3e9cf09c772/githubcard.svg"/>
+<img align="right" height="590em" src="./image/perfil.jpg"/>
 <h1 align="left">Hi, I'm Willams Silva 👋🏽</h1>
-<p align="left"> <img src="./image/perfil.jpg" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=willpc5&color=brightgreen" alt="Profile views" /> </p>
 
 - 🔥 Web developer front-end 
 
