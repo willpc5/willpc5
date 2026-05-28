@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Willams Silva 👋🏽</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willpc5&color=brightgreen" alt="Profile views" /> </p>
 
-- 🔥 Web developer front-end 
+- 🔥 Web Developer Full Stack
 
-- 👨🏽‍🎓 Programming Student at Rocketseat 
+- 👨🏽‍🎓 Programming Student at Oxetech Academy
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Tailwind CSS, Node.js, n8n, Git, GitHub**
 
 - 👨‍💻 More at [willpc5.github.io](https://willpc5.github.io/portfolio/)
 
@@ -28,6 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willpc5&theme=tokyonight" alt="GitHub Streak Stats" height="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=willpc5&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
