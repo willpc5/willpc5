@@ -24,11 +24,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willpc5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Willams GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpc5&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willpc5&theme=tokyonight" alt="GitHub Streak Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=willpc5&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <br>
