@@ -16,6 +16,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![n8n](https://img.shields.io/badge/-n8n-05122A?style=for-the-badge&logo=n8n)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
@@ -23,11 +26,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-   <a href="https://github.com/willpc5">
-   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=willpc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpc5&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=willpc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Willams GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpc5&layout=compact&theme=dark" alt="Top Languages" height="180em" />
+</div>
 
 <br>
 
