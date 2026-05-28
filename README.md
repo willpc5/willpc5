@@ -26,10 +26,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willpc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Willams GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpc5&layout=compact&theme=dark" alt="Top Languages" height="180em" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=willpc5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Willams GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpc5&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
 <br>
 
